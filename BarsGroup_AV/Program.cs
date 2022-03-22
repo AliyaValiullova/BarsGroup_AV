@@ -6,7 +6,7 @@ namespace BarsGroup_AV
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Привет");
         }
     }
 }
